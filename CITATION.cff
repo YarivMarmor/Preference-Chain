@@ -1,0 +1,33 @@
+
+cff-version: 1.2.0
+message: "If you use this software, please cite the software and the associated scientific publication."
+type: software
+title: "Preference Chain — Preference Ranking Distance Tool"
+authors:
+  - family-names: Marmor
+    given-names: Yariv N.
+    orcid: "https://orcid.org/0000-0001-9200-5041"
+repository-code: "https://github.com/YarivMarmor/Preference-Chain"
+url: "https://github.com/YarivMarmor/Preference-Chain"
+version: "0.2.0"
+date-released: 2026-10-13
+abstract: >-
+  A Python-based research software tool for measuring cosine similarity
+  and normalized angular distance between preference rankings,
+  including tied preferences.
+references:
+  - type: article
+    title: "Some metrological aspects of preferences expressed by prioritization of alternatives"
+    authors:
+      - family-names: Vanacore
+        given-names: A.
+      - family-names: Marmor
+        given-names: Yariv N.
+      - family-names: Bashkansky
+        given-names: E.
+    doi: "10.1016/j.measurement.2018.11.012"
+    journal: "Measurement"
+    year: 2019
+    volume: 135
+    start: 520
+    end: 526
