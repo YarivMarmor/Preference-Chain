@@ -10,6 +10,7 @@ authors:
 repository-code: "https://github.com/YarivMarmor/Preference-Chain"
 url: "https://github.com/YarivMarmor/Preference-Chain"
 version: "0.2.0"
+license: MIT
 date-released: 2026-10-13
 abstract: >-
   A Python-based research software tool for measuring cosine similarity
